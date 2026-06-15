@@ -136,7 +136,6 @@ Developed for academic purposes as part of a Mobile Application Development Port
 
 ---
 
-## GitHub Repository
-
-https://github.com/DipuoM/BudgetBuddy
+youtube link 
+https://youtu.be/oGH8lovzxLc
 
