@@ -1,0 +1,9 @@
+<resources>
+    <style name="PinkButton" parent="Widget.MaterialComponents.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="cornerRadius">32dp</item>
+        <item name="android:backgroundTint">@color/pink_primary</item>
+        <item name="android:textColor">@color/surface</item>
+        <item name="android:fontFamily">sans-serif-black</item>
+    </style>
+</resources>
